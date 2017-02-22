@@ -1,2 +1,0 @@
-# Hellow-World
-Learning Chef
